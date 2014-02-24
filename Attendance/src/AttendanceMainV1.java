@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
 import java.util.Date;
-//test
+
 public class AttendanceMainV1
 {
 	static String[][] people = new String[200][4]; // all people on the team
